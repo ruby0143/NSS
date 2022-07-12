@@ -1,0 +1,28 @@
+
+.foot2{
+    height: 200px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, #2FABBF 0%, #33ADC1 35%, #2FABBF 100%);
+}
+
+.foot-p{
+    background-color: #33ADC1;
+    color: white;
+    font-weight: 400;
+    padding: 30px;
+    padding-top: 50px;
+}
+.foot-p2 , .foot-p3{
+    background-color: #33ADC1;
+    color: white;
+    font-weight: 400;
+}
+
+.foot-p3{
+    padding:20px;
+}
+
+footer{
+    margin-top: 20px;
+    bottom: 0;
+}

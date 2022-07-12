@@ -1,0 +1,51 @@
+.abt{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.about-left h1,p{
+    background-color: white;
+}
+.about-left{
+    padding: 30px;
+    background-color: white;
+}
+.about-right{
+    background-color: white;
+}
+
+.about-left p{
+    border: 1px solid #17a2b8;
+    color: black;
+    font-weight:350;
+}
+
+.about-left p{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 10px;
+}
+hr{
+    color: #39C0ED;
+    border: 1px solid #39C0ED;
+}
+h2{
+    text-align: center;
+}
+
+h4{
+    margin: 20px;
+    text-align: left;
+}
+.div{
+    margin: 20px;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 1.3rem;
+}

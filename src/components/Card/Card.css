@@ -1,0 +1,18 @@
+.wd{
+    width: 17rem;
+    height: 400px;
+    margin: 30px; 
+    border: 1px solid #39C0ED;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card-title{
+    margin: 20px;
+    text-align: center;
+}
+.card-text{
+    font-weight: 400;
+    text-align: center;
+    color: black;
+}
